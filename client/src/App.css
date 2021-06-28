@@ -1,0 +1,16 @@
+
+.gamesImage{
+    height: 120px;
+}
+a{
+    text-decoration: none;
+}
+.search{
+    width: 21rem !important;
+}
+.search:focus{
+    border: none !important;
+}
+#navbarSupportedContent{
+    margin-left: 15rem;
+}   
